@@ -1,0 +1,43 @@
+.how-it-works {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #fff;
+}
+
+.how-it-works h2 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #1f3a5d;
+    margin-bottom: 40px;
+}
+
+.steps {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+.step {
+    flex: 1;
+    max-width: 250px;
+    text-align: center;
+}
+
+.step img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.step h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #1f3a5d;
+    margin-bottom: 10px;
+}
+
+.step p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.6;
+}
